@@ -1,0 +1,1 @@
+.dashboard-grid{display:flex;flex-wrap:wrap;gap:10px}.dashboard-card{flex:1 1 100%;min-width:0}@media (min-width:768px) and (max-width:1023px){.dashboard-card{flex:1 1 calc(50% - 5px)}.dashboard-card-5{flex:1 1 100%}}@media (min-width:1024px){.dashboard-card{flex:1 1 calc(33.333% - 7px)}.dashboard-card-4,.dashboard-card-5{flex:1 1 calc(50% - 5px)}}
